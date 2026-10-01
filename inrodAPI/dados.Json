@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "titulo": "Homem de ferro",
+        "categoria": "Filme",
+        "plataforma": "Youtube, Netflix",
+        "nota": 6.8,
+        "statu": "assistido",
+        "capa": "https://igormiranda.com.br/wp-content/uploads/2023/04/homem-de-ferro-2008-filme.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "101 dalmatas",
+        "categoria": "Filme",
+        "plataforma": "Youtube",
+        "nota": 10.0,
+        "statu": "assistido",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwOE1FPspEobTI__o6A6KLMRnhq2gtVw1qmJVufvgQA&s"
+    },
+    {
+        "id": 3,
+        "titulo": "bloons td6",
+        "categoria": "jogos",
+        "plataforma": "steam, epic games e play store",
+        "nota": 9.0,
+        "statu": "jogado",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Nzc3uuzJyDhMHd5xwz0EnA4yQluGV-_FmjfJslsHPFNVt8TDy8iyLTj9&s=10"
+    },
+    {
+        "id": 4,
+        "titulo": "Doom blade",
+        "categoria": "jogos",
+        "plataforma": "Epic games",
+        "nota": 8.0,
+        "statu": "jogado",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy-4sayN6SzBqR8lBtibABu1ZzBrF5cPb12gvE5-cqKGnYU4OSGg2d5bm&s=10"
+    },
+    {
+        "id": 5,
+        "titulo": "Doctor house",
+        "categoria": "serie",
+        "plataforma": "Netflix",
+        "nota": 8.5,
+        "statu": "assistido",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ofwXhylWFnCbZITC-1KEPiPfbQrj0fVrTho6Ve1K1Lx92oy8fhvLDoD8&s=10"
+    },
+    {
+        "id": 6,
+        "titulo": "the good doctor",
+        "categoria": "serie",
+        "plataforma": "Netflix, prime video",
+        "nota": 8.5,
+        "statu": "assistido",
+        "capa": "https://m.media-amazon.com/images/S/pv-target-images/7b9f1fe3dfde01cc80b041a497c0b9d33c61a1f890848a96f978a6187c35b6ab.jpg"
+    }
+]
